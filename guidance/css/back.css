@@ -9,16 +9,11 @@
     padding-left: 43%;
     padding-right: 54%;
 }
-.head .icon{
-    height: 150px;
-    width:150px;
-}
 .parent{
     display: flex;  
     margin: 40px;
     flex-direction: row;
     flex-wrap: wrap;
-   background-color: rgb(13, 119, 211);
    justify-content:center;
 }
 .item{
@@ -30,10 +25,9 @@
      width: 150px; */
 
 }
-h1 h2{
+h1,h2{
     text-align: center;
-    background-color: brown;
 }
-img{
-    align-content: space-around;
+body{
+    background-color: rgb(13, 211, 194);
 }
